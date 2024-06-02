@@ -16,7 +16,7 @@
     fill="#222"
     stroke="#FFFFFF"
     stroke-width="0"
-    stroke-opacity="100%"
+    stroke-opacity="75%"
     paint-order="stroke"
   ></rect><rect
     width="512"
